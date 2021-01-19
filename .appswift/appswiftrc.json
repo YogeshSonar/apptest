@@ -1,0 +1,16 @@
+{
+    "appswift": {
+        "continueTheming": true,
+        "shouldCommitCode": true,
+        "shouldCreateDatabaseSchema": true,
+        "scmType": "git",
+        "scmUserName": "YogeshSonar",
+        "scmPwd": "9b81da825be61c4899590f~~1c0f4dc16292914f6ed272eeb1b49654",
+        "scmUrl": "https://github.com/YogeshSonar/apptest",
+        "dbUrl": "aut-nl-devtest-postgresql01.cgautpt.com",
+        "dbUserName": "appswift_admin@aut-nl-devtest-postgresql01",
+        "dbPassword": "f41eefa08952f8536eed1f607f~~fb6b729de34308de8ee4d170a5621fe5",
+        "dbName": "dev_appswift",
+        "dbPort": "5432"
+    }
+}

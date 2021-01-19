@@ -1,0 +1,27 @@
+{
+    "relationships": [
+        {
+            "relationshipId": 1,
+            "relationshipName": "e2_e21",
+            "otherEntityName": "e1",
+            "relationshipType": "one-to-one",
+            "otherEntityField": "t11",
+            "ownerSide": "NA"
+        }
+    ],
+    "fields": [
+        {
+            "fieldId": 1,
+            "fieldName": "e21",
+            "fieldType": "Integer"
+        },
+        {
+            "fieldId": 2,
+            "fieldName": "e22",
+            "fieldType": "String"
+        }
+    ],
+    "changelogDate": "1611064258538",
+    "dto": "no",
+    "pagination": "no"
+}
